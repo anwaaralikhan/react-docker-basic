@@ -1,8 +1,8 @@
 
 ## How to run via docker
 
-### `Create Docker Image
-docker build -t react-docker-basic-image`
+### `Create Docker Image`
+`docker build -t react-docker-basic-image`
 
 `-t followed by image_name`
 
