@@ -33,3 +33,7 @@ You can verify docker image being published in docker hub
 `volumes are completely managed by docker and have no impact on host file structure`
 `bind mount can be mounted anywhere and are dependant on the host file system`
 
+### `Setting up docker-compose.yml`
+`1- create docker-compose.yml`
+`2- publish code`
+`3- sudo docker-compose -up --build`
